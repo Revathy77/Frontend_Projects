@@ -1,4 +1,4 @@
-🍨 Frosty Delight - Artisan Ice Cream Parlour Website
+🍨 Frosty Delight - Artisan Ice Cream Parlour Fully Responsive Website
 
 Welcome to Frosty Delight, a vibrant, responsive website for an artisan ice cream parlour. This project is built using HTML5 and CSS3, showcasing handcrafted ice cream flavors, shop locations, and more, all wrapped in a visually engaging layout.
 
