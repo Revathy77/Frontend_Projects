@@ -18,3 +18,6 @@ Welcome to Frosty Delight, a vibrant, responsive website for an artisan ice crea
 - Font Awesome Icons
 - Google Fonts (Comic Sans MS)
 - Unsplash (for free image assets)
+
+🌎 Project Live:
+https://revathy77.github.io/iceCreamPalourWebsite/
