@@ -7,10 +7,10 @@ Welcome to Frosty Delight, a vibrant, responsive website for an artisan ice crea
 - 🎨 **Colorful & Playful UI** using CSS variables and gradients
 - 📱 **Fully Responsive Design** using CSS Flexbox and Grid
 - 🍦 **Interactive Menu** with classic, specialty flavors and toppings
-- 📍 **Location Cards** for multiple shops with maps-ready addresses
+- 📍 **Location Cards** for multiple shops with addresses
 - 📞 **Call to Action** for delivery with contact info
 - 🌐 **Social Media Links** with hover effects
-- 
+  
 🧰 Tech Stack
 
 - HTML5
